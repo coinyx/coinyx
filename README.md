@@ -7,7 +7,7 @@ Full-stack blockchain developer with over 7 years of professional experience.<br
 
 Providing customers with a high-quality product is my commitment, as your success is intertwined with mine. Continuously seeking new challenges and opportunities<br/>
 
-<h1 align="left">✔️ Skills</h1>
+<h1 align="left">Skills</h1>
 
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -43,5 +43,12 @@ Providing customers with a high-quality product is my commitment, as your succes
 &nbsp;
 <br />
 
+<h1 align="left">Experience</h1>
+ - Have acquired newly-emerging tech like Account Abstraction(ERC4337), ZK-technology, Bitcoin Ordinals and Metaverse with OpenAI
+ - Created 50+ websites like E-Commercial, Shoping and Casino game sites using MERN stack, WordPress, and Shopify
+ - Built DEFI, DEX, NFT/Token Minting, Staking, Breeding, Raffle/Auction, Mutex(Evolution), Marketplace, Launchpad, ICO/IDO
+ - Developed Simple P2E Games like Dice, Guess Number, Moonshot, CoinFlip, Raffle and Poker
+ - Built DEXs, Defi, DAO on EVM, BSC, Polygon, Cosmos, Solana, Near, and Aptos
+<br/>
 
 <br/>
