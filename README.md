@@ -11,7 +11,7 @@ Providing customers with a high-quality product is my commitment, as your succes
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
-      <br>C#
+      <br>Nextjs
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -25,7 +25,7 @@ Providing customers with a high-quality product is my commitment, as your succes
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" alt="icon" width="65" height="65" />
-      <br>C++
+      <br>React
     </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
@@ -83,7 +83,7 @@ Providing customers with a high-quality product is my commitment, as your succes
     </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
-      <br>ASP.NET
+      <br>Firebase
     </td>
   </tr>
    <tr>
@@ -97,31 +97,31 @@ Providing customers with a high-quality product is my commitment, as your succes
     </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="ubuntu" />
-      <br>Linux
+      <br>Ubuntu
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
-      <br>Dart
+      <br>Vuejs
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="nuxtjs" />
-      <br>RabbitMQ
+      <br>Nuxtjs
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="redux" />
-      <br>sentry
+      <br>Redux
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="solidity" />
-      <br>Celery
+      <br>Solidity
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="sass" />
-      <br>Docusaurus
+      <br>Sass
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="figma" />
-      <br>Pytest
+      <br>figma
     </td>
   </tr>
  <tr>
