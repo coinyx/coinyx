@@ -10,8 +10,8 @@ Providing customers with a high-quality product is my commitment, as your succes
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
-      <br>Nextjs
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -24,8 +24,8 @@ Providing customers with a high-quality product is my commitment, as your succes
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="65" height="65" />
-      <br>React
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
+      <br>Swift
     </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
@@ -92,24 +92,24 @@ Providing customers with a high-quality product is my commitment, as your succes
       <br>Redis
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
+      <br>Php
     </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="ubuntu" />
       <br>Ubuntu
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
-      <br>Vuejs
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="go" />
+      <br>Go
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="nuxtjs" />
-      <br>Nuxtjs
+        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="ruby" />
+      <br>Ruby
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="redux" />
-      <br>Redux
+        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="rust" />
+      <br>Rust
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="solidity" />
@@ -120,8 +120,8 @@ Providing customers with a high-quality product is my commitment, as your succes
       <br>Sass
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="figma" />
-      <br>figma
+        <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="cpp" />
+      <br>C++
     </td>
   </tr>
  <tr>
