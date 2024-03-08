@@ -2,9 +2,6 @@
 
 Full-stack blockchain developer with over 7 years of professional experience.<br/>
 
-<a href="https://github.com/techtruth1/portfolio">My Portfolio Overview</a>
-<br/>
-
 Providing customers with a high-quality product is my commitment, as your success is intertwined with mine. Continuously seeking new challenges and opportunities<br/>
 
 ### 🛠Skills
