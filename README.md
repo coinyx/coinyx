@@ -1,6 +1,6 @@
 ﻿# techtruth1
 
-Full-stack developer with over 5 years of professional experience.<br/>
+Full-stack blockchain developer with over 7 years of professional experience.<br/>
 
 <a href="https://github.com/techtruth1/portfolio">My Portfolio Overview</a>
 <br/>
