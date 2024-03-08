@@ -1,5 +1,5 @@
 ﻿# techtruth1
-<img src="https://www.clipartkey.com/mpngs/m/12-128928_transparent-shaking-hands-png-transparent-shake-hand-logo.png" alt="icon" width="65" height="65">
+<img src="https://www.clipartkey.com/mpngs/m/12-128928_transparent-shaking-hands-png-transparent-shake-hand-logo.png" alt="icon" width="100" height="100">
 Full-stack blockchain developer with over 7 years of professional experience.<br/>
 
 Providing customers with a high-quality product is my commitment, as your success is intertwined with mine. Continuously seeking new challenges and opportunities<br/>
