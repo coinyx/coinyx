@@ -10,13 +10,12 @@ Providing customers with a high-quality product is my commitment, as your succes
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
       <br>C#
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/next-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
     </td>
@@ -25,7 +24,7 @@ Providing customers with a high-quality product is my commitment, as your succes
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="65" height="65" />
       <br>C++
     </td>
        <td align="center" width="96">
@@ -83,7 +82,7 @@ Providing customers with a high-quality product is my commitment, as your succes
       <br>PostgreSQL
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
       <br>ASP.NET
     </td>
   </tr>
@@ -97,31 +96,31 @@ Providing customers with a high-quality product is my commitment, as your succes
       <br>Postman
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="ubuntu" />
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
       <br>Dart
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="nuxtjs" />
       <br>RabbitMQ
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="redux" />
       <br>sentry
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="solidity" />
       <br>Celery
     </td>
     <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="sass" />
       <br>Docusaurus
     </td>
     <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="figma" />
       <br>Pytest
     </td>
   </tr>
