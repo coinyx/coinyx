@@ -1,4 +1,4 @@
-﻿# techtruth1
+﻿# truth
 <img src="https://cdn-icons-png.flaticon.com/512/8148/8148456.png" alt="icon" width="100" height="100">
 Full-stack blockchain developer with over 7 years of professional experience.<br/>
 
