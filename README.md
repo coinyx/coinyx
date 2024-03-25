@@ -1,4 +1,4 @@
-﻿# techtrust0x0
+﻿# techtrust
 Full-stack developer with over 6 years of professional experience.<br/>
 
 Providing customers with a high-quality product is my commitment, as your success is intertwined with mine. Continuously seeking new challenges and opportunities<br/>
