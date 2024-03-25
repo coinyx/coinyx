@@ -130,9 +130,7 @@ Providing customers with a high-quality product is my commitment, as your succes
 <br />
 
 ### 🌱Experience
- - Have acquired newly-emerging tech like Account Abstraction(ERC4337), ZK-technology, Bitcoin Ordinals and Metaverse with OpenAI
- - Created 50+ websites like E-Commercial, Shoping and Casino game sites using MERN stack, WordPress, and Shopify
- - Built DEFI, DEX, NFT/Token Minting, Staking, Breeding, Raffle/Auction, Mutex(Evolution), Marketplace, Launchpad, ICO/IDO
- - Developed Simple P2E Games like Dice, Guess Number, Moonshot, CoinFlip, Raffle and Poker
- - Built DEXs, Defi, DAO on EVM, BSC, Polygon, Cosmos, Solana, Near, and Aptos
+- Proficient in HTML, CSS, and JavaScript, with experience in React.js, Angular, Vue.js, and Svelte for creating dynamic user interfaces. Familiar with styling frameworks like Tailwind CSS and Material-UI.
+- Proficient in TypeScript for enhanced code quality and Next.js for server-side rendering. Familiarity with Material-UI for building consistent UI components.
+- Skilled in Node.js and PHP for server-side programming, with expertise in frameworks like Express.js. Experienced in database management, including SQL (MySQL, PostgreSQL) and NoSQL (MongoDB).
 <br/>
