@@ -1,8 +1,7 @@
 ﻿# techtrust
 
-Experienced in Software development for 10+ years. Currently working as a fullstack blockchain developer.<br/>
+Experienced in Software development for 6+ years. Currently working as a fullstack engineer.<br/>
 
-<a href="https://github.com/infinite0731/Web3-Project-Overview">Web3 Projects Overview</a>
 <br/>
 
 Deliver customer's superior quality product because your success is also mine.<br/>
@@ -48,9 +47,9 @@ Always pursue something new and challengeable...<br/>
 <br />
 
 ### 🌱Experience
- - Have acquired newly-emerging tech like Account Abstraction(ERC4337), ZK-technology, Bitcoin Ordinals and Metaverse with OpenAI
- - Created 50+ websites like E-Commercial, Shoping and Casino game sites using MERN stack, WordPress, and Shopify
- - Built DEFI, DEX, NFT/Token Minting, Staking, Breeding, Raffle/Auction, Mutex(Evolution), Marketplace, Launchpad, ICO/IDO
- - Developed Simple P2E Games like Dice, Guess Number, Moonshot, CoinFlip, Raffle and Poker
- - Built DEXs, Defi, DAO on EVM, BSC, Polygon, Cosmos, Solana, Near, and Aptos
+ - Skilled in JavaScript, React.js, Next.js, Angular, and TypeScript, I bring a wealth of experience to front-end development tasks.
+ - Proficient in crafting visually appealing and responsive user interfaces, I leverage styling frameworks such as Tailwind CSS and Material-UI alongside foundational HTML and CSS.
+ - Moreover, I am adept in working with Svelte and Vue.js, allowing me to adapt to diverse project requirements.
+ - On the back end, I excel in Node.js, PHP, and Laravel, enabling robust server-side development.
+ - With Node.js, I create scalable and efficient server-side applications, while my expertise in PHP and Laravel empowers me to build powerful and feature-rich web applications.
 <br/>
