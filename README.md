@@ -1,4 +1,4 @@
-Experienced in Software development for 8+ years. Currently working as a fullstack engineer.<br/>
+Experienced in Software development for 8+ years. Currently working as a fullstack blockhchain developer.<br/>
 
 <br/>
 
@@ -45,7 +45,7 @@ Always pursue something new and challengeable...<br/>
 <br />
 
 ### 🌱Experience
- - Skilled in JavaScript, React.js, Next.js, Angular, and TypeScript, I bring a wealth of experience to front-end development tasks.
+ - Skilled in JavaScript, React.js, Next.js, Angular, Vue and TypeScript, I bring a wealth of experience to front-end development tasks.
  - Proficient in crafting visually appealing and responsive user interfaces, I leverage styling frameworks such as Tailwind CSS and Material-UI alongside foundational HTML and CSS.
  - Moreover, I am adept in working with Svelte and Vue.js, allowing me to adapt to diverse project requirements.
  - On the back end, I excel in Node.js, PHP, and Laravel, enabling robust server-side development.
