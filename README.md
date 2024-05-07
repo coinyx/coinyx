@@ -1,4 +1,4 @@
-Experienced in Software development for 8+ years. Currently working as a fullstack blockhchain developer.<br/>
+Experienced in Software development for 8+ years. Currently working as a fullstack developer.<br/>
 
 <br/>
 
