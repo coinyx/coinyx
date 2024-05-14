@@ -1,4 +1,4 @@
-Experienced in Software development for 7+ years. Currently working as a fullstack blockchain developer.
+Experienced in Software development for 6+ years. Currently working as a fullstack blockchain developer.
 
 <br/>
 
